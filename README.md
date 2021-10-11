@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Cytostatic"><img src="https://github.com/cytostatic/cytostatic/blob/master/devcard.svg" width="400" alt="Cytostatic's Dev Card"/></a>
+<a href="https://app.daily.dev/Cytostatic"><img src="https://github.com/cytostatic/cytostatic/blob/main/devcard.svg" width="400" alt="Cytostatic's Dev Card"/></a>
 
 <!--
 **cytostatic/cytostatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
