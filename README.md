@@ -14,10 +14,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=cytostatic&show_icons=true" height="400px" width="100%" />
 </picture>
-<div style="width: 50%; padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
-    <h3 style="color: #9F9F9F; margin: 0;">Visit website</h3>
-    <a href="https://cytostatic.dev" target="_blank" class="big-font" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;">https://cytostatic.dev</a>
-</div>
 </div>
 
 ## 💻 About me
@@ -57,8 +53,4 @@ I'm a frontend developer from Austria 🇦🇹, fueled by coffee and a passion f
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
 <img src="https://streak-stats.demolab.com?user=cytostatic&theme=highcontrast" alt="github-streak" />
-<div style="width: calc(50% - 40px); padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
-    <h3 style="color: #9F9F9F; margin: 0;">Support</h3>
-    <a href="" target="_blank" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;"></a>
-</div>
 </div>
